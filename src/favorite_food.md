@@ -1,3 +1,5 @@
 # favorite food
 
+<<<<<<< HEAD
 soursage
+
