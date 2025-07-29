@@ -1,3 +1,5 @@
 # favorite food
 
-banana
+<<<<<<< HEAD
+soursage
+
